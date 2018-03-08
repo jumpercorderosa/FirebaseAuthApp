@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934432761034",
+    "firebase_url": "https://fir-app-9a12e.firebaseio.com",
+    "project_id": "fir-app-9a12e",
+    "storage_bucket": "fir-app-9a12e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934432761034:android:d5ecb51e683fcec9",
+        "android_client_info": {
+          "package_name": "danielle.com.br.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934432761034-u4emn86vo3m0e4oa0tgot9f22c6p0frm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "danielle.com.br.firebaseapp",
+            "certificate_hash": "bd2fa6e970c86df58923fe875459f78fd512294f"
+          }
+        },
+        {
+          "client_id": "934432761034-1qb6qepkqkr729aia2h3p1nujh4n400j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxj8nAWU5kA74E6i1v3OXlGaXr6k1ssI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934432761034-1qb6qepkqkr729aia2h3p1nujh4n400j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
